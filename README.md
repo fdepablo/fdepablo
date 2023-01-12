@@ -1,6 +1,6 @@
 # ✨ ¡Bienvenidos a mi Github! ✨
 
-Mi nombre es Felix de Pablo Lobo, profesor y formador en diversas tecnologías como pueden ser Java & Friends (Spring, JEE, etc.), JavaScript & Friends (Angular, JQuery, etc.), HTML, CSS, XML, PHP, Android o Swift & iOS, entre otras :).
+Mi nombre es Felix de Pablo Lobo, profesor y formador en diversas tecnologías como pueden ser Java & Friends (Spring, JEE, etc.), JavaScript & Friends (Angular, JQuery, etc.), HTML, CSS, XML, PHP, Android o Swift & iOS, entre otras.
 
 En este Github podrás encontrar teoría y ejemplos sobre las tecnologías que imparto, espero que te sirvan de ayuda :smile:
 
